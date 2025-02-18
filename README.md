@@ -6,8 +6,8 @@
 ### I am now a Master's student studying Computer Science at National Tsing Hua University (NTHU), with a keen interest in Machine Learning and Computer Vision.
 <br />
 
-- 🌱 &nbsp;I'm currently studying for my Master degree in Computer Science at National Tsing Hua University
-- 👨‍💻 
+- 🌱 I’m currently learning **Computer Vision**
+- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/rudyhsu?tab=repositories)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **janithherath2@gmail.com**
 - 📝 I studied at Ananda College 
