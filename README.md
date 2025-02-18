@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Computer Vision**
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/rudyhsu?tab=repositories)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- 📫 How to reach me **janithherath2@gmail.com**
+- 📫 How to reach me **rudyshen16@gmail.com**
 - 📝 I studied at Ananda College 
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
