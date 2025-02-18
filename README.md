@@ -4,7 +4,6 @@
 ### Hi there 👋 I am Rudy Hsu <br>
 
 ### I am now a Master's student studying Computer Science at National Tsing Hua University (NTHU), with a keen interest in Deep Learning and Computer Vision.
-<br />
 
 - 🌱 I’m currently learning **Computer Vision**
 - 👨‍💻 All of my projects are available at **[Github Repositories](https://github.com/rudyhsu?tab=repositories)**
