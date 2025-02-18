@@ -11,7 +11,7 @@
 - 📫 How to reach me **rudyshen16@gmail.com**
 - 📄 Know more about my experiences in **[My CV](https://drive.google.com/file/d/1A1vJi3KFLDuSkhweCF83pdszt6xBb3Sa/view?usp=drive_link)**
 - 🤝 I’m looking for an internship as **Software Engineer**
-<br><br><br><br>
+<br><br>
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
