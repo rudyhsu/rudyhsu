@@ -1,4 +1,4 @@
-
+<br><br><br>
  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
 ### Hi there 👋 I am Rudy Hsu <br>
@@ -78,8 +78,4 @@
 </p>
 
 
-[linkedin]: https://www.linkedin.com/in/janith-thenuka-herath-1345661a5 
 
-------
-Credit: [thenuka99](https://github.com/thenuka99)
-12/01/2023
