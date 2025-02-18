@@ -1,9 +1,9 @@
 
  <img align="right" height="320px" alt="guy" width="380" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
-### Hi there 👋 I am Rudy Hsu <br>
+### Hi there 👋 I am Rudy Hsu ! <br>
 
-### I am now a Master's student studying Computer Science at National Tsing Hua University (NTHU), with a keen interest in Deep Learning and Computer Vision.
+### I am now a Master's student studying Computer Science at National Tsing Hua University (NTHU)
 
 > I am a hardworking individual who is dedicated towards his goals.
 <br />
