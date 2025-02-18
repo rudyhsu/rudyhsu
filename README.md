@@ -12,8 +12,6 @@
 - 📫 How to reach me **rudyshen16@gmail.com**
 - 📄 Know more about my experiences in **[My CV](https://drive.google.com/file/d/1A1vJi3KFLDuSkhweCF83pdszt6xBb3Sa/view?usp=drive_link)**
 - 🤝 I’m looking for an internship as **Software Engineer**
-- 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
-	<a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br><br><br>
 
 <p align="center">
