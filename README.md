@@ -28,7 +28,7 @@
 
 <br><br>
 
-## Technologies currently using
+## **My Skills
 
 
 <div>
