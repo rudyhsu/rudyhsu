@@ -26,7 +26,7 @@
 </p>
 
 
-<br><br><br><br><br><br><br><br>
+<br><br>
 
 ## Technologies currently using
 
