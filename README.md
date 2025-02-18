@@ -8,12 +8,12 @@
 > I am a hardworking individual who is dedicated towards his goals.
 <br />
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning `Computer Vision`
+- - :nerd_face: Always `learning new things`
 - 👨‍💻 All of my projects are available at **[Github Repositories](https://github.com/rudyhsu?tab=repositories)**
 - :computer: Connect with me on **[LinkedIn](https://www.linkedin.com/in/%E5%98%89%E5%BE%BD-%E5%BE%90-322a17351/)**
-- 📫 How to reach me **rudyshen16@gmail.com**
-- 📄 Know more about my experiences in **[My CV](https://drive.google.com/file/d/1A1vJi3KFLDuSkhweCF83pdszt6xBb3Sa/view?usp=drive_link)**
-- 🤝 I’m looking for an internship as **Software Engineer**
+- :thinking: I’m looking for an internship as `Software Engineer`, this is **[MY RESUME](https://drive.google.com/file/d/1A1vJi3KFLDuSkhweCF83pdszt6xBb3Sa/view?usp=drive_link)**
+- - 📫 How to reach me **rudyshen16@gmail.com**
 <br><br>
 
 <p align="center">
