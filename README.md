@@ -5,6 +5,9 @@
 
 ### I am now a Master's student studying Computer Science at National Tsing Hua University (NTHU), with a keen interest in Deep Learning and Computer Vision.
 
+> I am a hardworking individual who is dedicated towards his goals.
+<br />
+
 - 🌱 I’m currently learning **Computer Vision**
 - 👨‍💻 All of my projects are available at **[Github Repositories](https://github.com/rudyhsu?tab=repositories)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/%E5%98%89%E5%BE%BD-%E5%BE%90-322a17351/)**
