@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 - 👨‍💻 All of my projects are available at **[Github Repositories](https://github.com/rudyhsu?tab=repositories)**
-- :computer:Connect with me on **[LinkedIn](https://www.linkedin.com/in/%E5%98%89%E5%BE%BD-%E5%BE%90-322a17351/)**
+- :computer: Connect with me on **[LinkedIn](https://www.linkedin.com/in/%E5%98%89%E5%BE%BD-%E5%BE%90-322a17351/)**
 - 📫 How to reach me **rudyshen16@gmail.com**
 - 📄 Know more about my experiences in **[My CV](https://drive.google.com/file/d/1A1vJi3KFLDuSkhweCF83pdszt6xBb3Sa/view?usp=drive_link)**
 - 🤝 I’m looking for an internship as **Software Engineer**
