@@ -19,12 +19,13 @@
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
- 
+<div align="center">
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudyhsu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudyhsu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudyhsu&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="410"/>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rudyhsu&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="410"/>
 </p>
+</div>
 
 <br><br><br><br><br><br><br><br>
 
