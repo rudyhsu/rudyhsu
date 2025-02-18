@@ -1,5 +1,5 @@
 
- <img align="right" height="350px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+ <img align="right" height="320px" alt="guy" width="380" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
 ### Hi there 👋 I am Rudy Hsu <br>
 
