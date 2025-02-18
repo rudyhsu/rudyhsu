@@ -3,14 +3,14 @@
  
 ### Hi there 👋 I am Rudy Hsu <br>
 
-### I am now a Master's student studying Computer Science at National Tsing Hua University (NTHU), with a keen interest in Machine Learning and Computer Vision.
+### I am now a Master's student studying Computer Science at National Tsing Hua University (NTHU), with a keen interest in Deep Learning and Computer Vision.
 <br />
 
 - 🌱 I’m currently learning **Computer Vision**
-- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/rudyhsu?tab=repositories)
+- 👨‍💻 All of my projects are available at **[Github Repositories](https://github.com/rudyhsu?tab=repositories)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/%E5%98%89%E5%BE%BD-%E5%BE%90-322a17351/)**
 - 📫 How to reach me **rudyshen16@gmail.com**
-- 📝 I studied at Ananda College 
+- 📄 Know more about my experiences in [My CV](https://drive.google.com/file/d/1A1vJi3KFLDuSkhweCF83pdszt6xBb3Sa/view?usp=drive_link)
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
 	<a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
