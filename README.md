@@ -20,7 +20,7 @@
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudyhsu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thenuka99&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="410"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rudyhsu&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="410"/>
 </p>
 
 <br><br><br><br><br><br><br><br>
