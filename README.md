@@ -1,12 +1,13 @@
 
  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
  
-### Hi there 👋 I am Rudy Hsu
+### Hi there 👋 I am Rudy Hsu <br>
 
-> I am a hardworking individual who is dedicated towards his goals.
+I am now a Master's student studying Computer Science at National Tsing Hua University (NTHU), with a keen interest in Machine Learning and Computer Vision.
 <br />
 
-- 🌱 &nbsp;I'm currently studying for my Master degree in computer science at National Tsing Hua University
+- 🌱 &nbsp;I'm currently studying for my Master degree in Computer Science at National Tsing Hua University
+- 👨‍💻 
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **janithherath2@gmail.com**
 - 📝 I studied at Ananda College 
