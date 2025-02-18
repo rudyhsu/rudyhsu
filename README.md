@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/rudyhsu?tab=repositories)
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/%E5%98%89%E5%BE%BD-%E5%BE%90-322a17351/)**
 - 📫 How to reach me **rudyshen16@gmail.com**
 - 📝 I studied at Ananda College 
 - 💬 Ask me about: anything, I am happy to help
