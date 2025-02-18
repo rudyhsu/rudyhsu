@@ -3,7 +3,7 @@
  
 ### Hi there 👋 I am Rudy Hsu <br>
 
-I am now a Master's student studying Computer Science at National Tsing Hua University (NTHU), with a keen interest in Machine Learning and Computer Vision.
+### I am now a Master's student studying Computer Science at National Tsing Hua University (NTHU), with a keen interest in Machine Learning and Computer Vision.
 <br />
 
 - 🌱 &nbsp;I'm currently studying for my Master degree in Computer Science at National Tsing Hua University
